@@ -1,0 +1,10 @@
+git rebase -i HEAD ~ soluongcommit
+giữ pick đầu tiên
+các pick khác đổi thành f 
+ctlr+x
+y
+enter
+xem có bao nhiêu commit( là dòng không có dấu # đằng trước)
+đặt dấu # vào trước commit muốn bỏ(lưu ý để lại một dòng không có dấu #, các dòng khác thêm #đằng trước)
+
+
